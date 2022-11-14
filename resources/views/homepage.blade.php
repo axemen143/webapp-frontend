@@ -17,7 +17,7 @@
                     <div class="divider-custom-line"></div>
                 </div>
                 <!-- Masthead Subheading-->
-                <p class="masthead-subheading font-weight-light mb-0">Student - Aspirant Web Designer - BSIS</p>
+                <p class="masthead-subheading font-weight-light mb-0">Student | Aspirant Web Designer | BSIS</p>
             </div>
         </header>
         <!-- Portfolio Section-->
